@@ -4,3 +4,5 @@ sidebar_position: 2
 ---
 # Dificultad al agregar productos
 Ineficiencia a la hora de agregar mas productos solo puedes escoger mas de un producto
+
+![Imagen 3](/static/img/imagen3.png)
