@@ -4,3 +4,4 @@ sidebar_position: 1
 ---
 # Error a la hora de cargar imagenes
 Algunos productos no pueden ser visibles ya que les falta el codigo de la imagen de referencia
+![Imagen 1](/img/imagen 2.jpeg)
