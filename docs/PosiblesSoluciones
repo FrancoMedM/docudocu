@@ -1,6 +1,9 @@
-
+---
+sidebar_label: "Soluciones!"
+sidebar_position: 0
+---
 # Problema1
--Posible solucion:
+Posible solucion:
 
 La mejor opcion para esto seria un sistema de exportacion de archivo ya que como sabemos al hacer una compra o una venta obtenemos una boleta electronica.
 Entonces aqui es donde deberia dejarnos subir dicha boleta para que sea correcto el pago y verificado de manera correctiva.
